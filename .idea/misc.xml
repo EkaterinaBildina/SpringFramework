@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Seminar1/example1sem1/myapp/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar1/example2sem1/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam1Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam2Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam3Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/Exam4Sem2/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar2/CRUDSpringWeb/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/sem3exampl1/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/sem3HomeTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/sem3example2REST/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar3/Sem3example3_scope/sq-ch9-ex3/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar4/Exam1Sem4/Example1Seminar4/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar4/Exam2Sem4/Example2Seminar4/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar4/Exam3Sem4/sq-ch8-ex6/pom.xml" />
+        <option value="$PROJECT_DIR$/Seminar4/Java_Spring_Seminar_4-main/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
